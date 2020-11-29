@@ -1,0 +1,29 @@
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+.head{
+	text-align:center;
+	color: green;
+}
+.midile{
+	text-align:center;
+	color: green;
+}
+.midile1{
+	text-align:center;
+	color: green;
+}
+.log{
+	background-color:green;
+	padding: 20px;
+	float:middle;
+	width: 220px;
+	height:220px;
+	margin-left:550px;
+}
+
+
